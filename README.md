@@ -1,4 +1,5 @@
-## Java Script full curse
+# Java Script full curse
 
-# Folders Content:
-Introduction: In this folder I see how to use the nase of js and implement some examples
+## Folders Content:
+- Introduction: In this folder I see how to use the nase of js and implement some examples.
+- 
