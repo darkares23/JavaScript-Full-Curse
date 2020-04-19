@@ -1,0 +1,1 @@
+Ajax responses the http status code from file data.txt
